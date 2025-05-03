@@ -1,0 +1,15 @@
+To reset current time table data, replace following code with timetable_data.py code:
+
+
+# timetable_data.py
+timetable_data = {}  # Dictionary to store timetables
+
+def save_timetable(data):
+    """Save the timetable data to this file (persistent storage)."""
+    global timetable_data
+    timetable_data = data
+
+def load_timetable():
+    """Load the existing timetable data."""
+    return timetable_data
+----------------------------------------------------------------------------------------------------

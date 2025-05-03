@@ -1,0 +1,8 @@
+-,-,-,-,-,-
+-,-,DCCA B1,DCCA B,DCCA A1,DCCA A2
+BEEE C2,-,DCCA B1,-,DCCA A1,DCCA A2
+BEEE C2,DCCA B,-,BEEE,-,DCCA B
+-,BEEE C1,-,-,DCCA A,-
+-,BEEE C1,BEEE,DCCA B2,-,-
+-,-,DCCA A,DCCA B2,-,-
+-,-,-,-,-,-
